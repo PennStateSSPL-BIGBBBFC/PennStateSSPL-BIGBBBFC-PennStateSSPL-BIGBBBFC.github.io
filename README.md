@@ -1,1 +1,1 @@
-# PennStateSSPL-BIGBBBFC-PennStateSSPL-BIGBBBFC.github.io
+PennStateSSPL-BIGBBBFC.github.io
